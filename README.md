@@ -1,7 +1,5 @@
-# RedditPersonalityBot
+# RedditPersonalityBot (Underdevelopment)
 Classify Myers-Briggs Personality Type based on a Reddit user's comments and posts.
-
-***Currently in development***
 
 Data from r/mbti:
 
