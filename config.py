@@ -1,0 +1,5 @@
+username = "arfBOT"
+password = "arihantjain"
+client_id = "1KQ8JaLiWanPnQ"
+client_secret = "EvG7MMgEvb_8W7oiwD0pmtiJ3hc"
+user_agent = "arihant testing with bots v0.01"
