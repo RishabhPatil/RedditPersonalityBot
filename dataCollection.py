@@ -1,11 +1,8 @@
 import praw
 import config
 import json
+import os
 #import getusers
-
-
-data = {}
-
 def botLogin():
 		redditObj = praw.Reddit(username = config.username,
 						password = config.password,
@@ -19,22 +16,33 @@ def botLogin():
 def get_comments(author,redditObj):
 		commentsList = []
 		for comment in redditObj.redditor(author).comments.new(limit=None):
-     			commentsList.append(comment.body.encode('ascii','ignore').split('\n', 1))
+				# print(comment.body)
+     			commentsList.append(comment.body)
+		# print(commentsList)
 		return commentsList
 
 
 obj = botLogin()
-#print(get_comments('flaminggandu',obj))
-try:
-	authorsData = json.load(open('authors.json'))
-	for author in authorsData:
-			print author
-			commentsList = get_comments(author,obj)
-			#data.[author] 
-			data[author] = (commentsList)
-			#data = addUserComments(author,commentsList)
-except:
-	pass
-with open("data.json",'w+') as f:
-	#print(data)
-	json.dump(data,f,indent=4)
+users_already_processed = set(os.listdir('data'))
+authors = set(json.load(open('authors.json')).keys())
+users_to_process = authors.difference(users_already_processed)
+print(len(users_to_process)," users to process")
+for author in users_to_process:
+		data = {}
+		fail = 1
+		while fail:
+				try:
+						print(author)
+						commentsList = get_comments(author,obj)
+						data["comments"] = (commentsList)
+						#data = addUserComments(author,commentsList)
+						fail = 0
+				except Exception as excpt:
+						print(excpt)
+						if excpt in ["404 HTTP response", "403 HTTP response"]:
+							print("rip user")
+							fail = 0
+						pass
+		with open("./data/"+author,'w+') as f:
+			#print(data)
+			json.dump(data,f,indent=4)
