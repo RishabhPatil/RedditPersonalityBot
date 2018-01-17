@@ -1,0 +1,333 @@
+Healer_of_arms received 403 HTTP response
+yukarimagome received 404 HTTP response
+InterruptingKorean1 received 404 HTTP response
+vivresavie received 404 HTTP response
+Solsken received 404 HTTP response
+psychologyisme127437 received 404 HTTP response
+supernerdboyyyyy received 403 HTTP response
+Mbtilife received 404 HTTP response
+mentionhelper received 403 HTTP response
+SlightlyAnnoyingBot received 403 HTTP response
+lizcaeks received 404 HTTP response
+-Chase-Daniels received 404 HTTP response
+slanty666 received 404 HTTP response
+forbiddendesert received 404 HTTP response
+seppo0010 received 404 HTTP response
+psYberspRe4Dd received 404 HTTP response
+sifir error with request HTTPSConnectionPool(host='oauth.reddit.com', port=443): Max retries exceeded with url: /user/sifir/comments?sort=new&limit=1024&after=t1_dm9ho0m&raw_json=1 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000000F8FB399470>, 'Connection to oauth.reddit.com timed out. (connect timeout=16.0)'))
+Nuakount error with request HTTPSConnectionPool(host='oauth.reddit.com', port=443): Max retries exceeded with url: /user/Nuakount/comments?sort=new&limit=1024&raw_json=1 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000000F8FB36BBA8>, 'Connection to oauth.reddit.com timed out. (connect timeout=16.0)'))
+Anothertypingpost error with request HTTPSConnectionPool(host='oauth.reddit.com', port=443): Max retries exceeded with url: /user/Anothertypingpost/comments?sort=new&limit=1024&raw_json=1 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000000F8FB36BA20>, 'Connection to oauth.reddit.com timed out. (connect timeout=16.0)'))
+AeronDaemon error with request HTTPSConnectionPool(host='oauth.reddit.com', port=443): Max retries exceeded with url: /user/AeronDaemon/comments?sort=new&limit=1024&raw_json=1 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000000F8FB2FBF98>, 'Connection to oauth.reddit.com timed out. (connect timeout=16.0)'))
+deltree711 error with request HTTPSConnectionPool(host='oauth.reddit.com', port=443): Read timed out. (read timeout=16.0)
+typethisguy error with request HTTPSConnectionPool(host='oauth.reddit.com', port=443): Max retries exceeded with url: /user/typethisguy/comments?sort=new&limit=1024&raw_json=1 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000000F8FB2FBB70>, 'Connection to oauth.reddit.com timed out. (connect timeout=16.0)'))
+Booooj error with request HTTPSConnectionPool(host='oauth.reddit.com', port=443): Max retries exceeded with url: /user/Booooj/comments?sort=new&limit=1024&raw_json=1 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000000F8FB2A45F8>, 'Connection to oauth.reddit.com timed out. (connect timeout=16.0)'))
+smokeymars22 error with request HTTPSConnectionPool(host='oauth.reddit.com', port=443): Max retries exceeded with url: /user/smokeymars22/comments?sort=new&limit=1024&raw_json=1 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000000F8FB36B198>, 'Connection to oauth.reddit.com timed out. (connect timeout=16.0)'))
+_Unpopular_View_ error with request HTTPSConnectionPool(host='oauth.reddit.com', port=443): Max retries exceeded with url: /user/_Unpopular_View_/comments?sort=new&limit=1024&raw_json=1 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000000F8FB308E48>, 'Connection to oauth.reddit.com timed out. (connect timeout=16.0)'))
+yiab127 error with request HTTPSConnectionPool(host='oauth.reddit.com', port=443): Max retries exceeded with url: /user/yiab127/comments?sort=new&limit=1024&raw_json=1 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000000F8FB2FB1D0>, 'Connection to oauth.reddit.com timed out. (connect timeout=16.0)'))
+sturgballer error with request HTTPSConnectionPool(host='oauth.reddit.com', port=443): Max retries exceeded with url: /user/sturgballer/comments?sort=new&limit=1024&raw_json=1 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000000F8FB2FB208>, 'Connection to oauth.reddit.com timed out. (connect timeout=16.0)'))
+eno_one error with request HTTPSConnectionPool(host='oauth.reddit.com', port=443): Max retries exceeded with url: /user/eno_one/comments?sort=new&limit=1024&raw_json=1 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000000F8FB308CC0>, 'Connection to oauth.reddit.com timed out. (connect timeout=16.0)'))
+ditdoot error with request HTTPSConnectionPool(host='oauth.reddit.com', port=443): Max retries exceeded with url: /user/ditdoot/comments?sort=new&limit=1024&raw_json=1 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000000F8FB2D32B0>, 'Connection to oauth.reddit.com timed out. (connect timeout=16.0)'))
+chocolatecraving error with request HTTPSConnectionPool(host='oauth.reddit.com', port=443): Max retries exceeded with url: /user/chocolatecraving/comments?sort=new&limit=1024&raw_json=1 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000000F8FB36BAC8>, 'Connection to oauth.reddit.com timed out. (connect timeout=16.0)'))
+savvytheenfp error with request HTTPSConnectionPool(host='oauth.reddit.com', port=443): Max retries exceeded with url: /user/savvytheenfp/comments?sort=new&limit=1024&raw_json=1 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000000F8FB308B00>, 'Connection to oauth.reddit.com timed out. (connect timeout=16.0)'))
+CreepySmileBot received 404 HTTP response
+SparkleBrightBLue10 received 403 HTTP response
+JetAviator received 403 HTTP response
+Sunnyinwinter-1080 received 403 HTTP response
+fatalfuryguy received 404 HTTP response
+carrieruns received 404 HTTP response
+QuoteMe-Bot received 403 HTTP response
+rainreign2424 received 403 HTTP response
+pureferret received 404 HTTP response
+zoolanderer3 received 404 HTTP response
+anynomous0000 received 403 HTTP response
+Ravi-kyaliapps received 404 HTTP response
+thejeku received 404 HTTP response
+TheSurfer42 received 404 HTTP response
+newslooter received 404 HTTP response
+Sirfranco4 received 404 HTTP response
+sweets90 received 403 HTTP response
+Chase-Daniels-- received 404 HTTP response
+jelly-bieber received 403 HTTP response
+SA1L error with request HTTPSConnectionPool(host='oauth.reddit.com', port=443): Read timed out. (read timeout=16.0)
+hidinq error with request HTTPSConnectionPool(host='oauth.reddit.com', port=443): Max retries exceeded with url: /user/hidinq/comments?sort=new&limit=1024&raw_json=1 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000000217455E668>, 'Connection to oauth.reddit.com timed out. (connect timeout=16.0)'))
+poks999 error with request HTTPSConnectionPool(host='oauth.reddit.com', port=443): Max retries exceeded with url: /user/poks999/comments?sort=new&limit=1024&raw_json=1 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x00000021745F39E8>, 'Connection to oauth.reddit.com timed out. (connect timeout=16.0)'))
+INTPenetrator error with request HTTPSConnectionPool(host='oauth.reddit.com', port=443): Max retries exceeded with url: /user/INTPenetrator/comments?sort=new&limit=1024&raw_json=1 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x00000021745F3E48>, 'Connection to oauth.reddit.com timed out. (connect timeout=16.0)'))
+StrawberryMilch error with request HTTPSConnectionPool(host='oauth.reddit.com', port=443): Max retries exceeded with url: /user/StrawberryMilch/comments?sort=new&limit=1024&raw_json=1 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x0000002174596748>, 'Connection to oauth.reddit.com timed out. (connect timeout=16.0)'))
+Ezmchill error with request HTTPSConnectionPool(host='oauth.reddit.com', port=443): Max retries exceeded with url: /user/Ezmchill/comments?sort=new&limit=1024&raw_json=1 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x0000002173CA86D8>, 'Connection to oauth.reddit.com timed out. (connect timeout=16.0)'))
+MooBox error with request HTTPSConnectionPool(host='oauth.reddit.com', port=443): Max retries exceeded with url: /user/MooBox/comments?sort=new&limit=1024&raw_json=1 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x00000021745962B0>, 'Connection to oauth.reddit.com timed out. (connect timeout=16.0)'))
+solomid321 error with request HTTPSConnectionPool(host='oauth.reddit.com', port=443): Max retries exceeded with url: /user/solomid321/comments?sort=new&limit=1024&raw_json=1 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000000217455E940>, 'Connection to oauth.reddit.com timed out. (connect timeout=16.0)'))
+turnippinrut error with request HTTPSConnectionPool(host='oauth.reddit.com', port=443): Max retries exceeded with url: /user/turnippinrut/comments?sort=new&limit=1024&raw_json=1 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x0000002174556C50>, 'Connection to oauth.reddit.com timed out. (connect timeout=16.0)'))
+stilalol error with request HTTPSConnectionPool(host='oauth.reddit.com', port=443): Max retries exceeded with url: /user/stilalol/comments?sort=new&limit=1024&raw_json=1 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x00000021745F3710>, 'Connection to oauth.reddit.com timed out. (connect timeout=16.0)'))
+ManuChaos error with request HTTPSConnectionPool(host='oauth.reddit.com', port=443): Max retries exceeded with url: /user/ManuChaos/comments?sort=new&limit=1024&raw_json=1 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000000217455E9E8>, 'Connection to oauth.reddit.com timed out. (connect timeout=16.0)'))
+VoxMagister error with request HTTPSConnectionPool(host='oauth.reddit.com', port=443): Max retries exceeded with url: /user/VoxMagister/comments?sort=new&limit=1024&raw_json=1 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x0000002174596CC0>, 'Connection to oauth.reddit.com timed out. (connect timeout=16.0)'))
+missmaddox error with request HTTPSConnectionPool(host='oauth.reddit.com', port=443): Max retries exceeded with url: /user/missmaddox/comments?sort=new&limit=1024&raw_json=1 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x0000002174596208>, 'Connection to oauth.reddit.com timed out. (connect timeout=16.0)'))
+MrMarblesTI error with request HTTPSConnectionPool(host='oauth.reddit.com', port=443): Max retries exceeded with url: /user/MrMarblesTI/comments?sort=new&limit=1024&raw_json=1 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000000217455E7B8>, 'Connection to oauth.reddit.com timed out. (connect timeout=16.0)'))
+cliffracer333 error with request HTTPSConnectionPool(host='oauth.reddit.com', port=443): Max retries exceeded with url: /user/cliffracer333/comments?sort=new&limit=1024&raw_json=1 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x0000002174556908>, 'Connection to oauth.reddit.com timed out. (connect timeout=16.0)'))
+ThrowawayGomi error with request HTTPSConnectionPool(host='oauth.reddit.com', port=443): Max retries exceeded with url: /user/ThrowawayGomi/comments?sort=new&limit=1024&raw_json=1 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x00000021745F3E10>, 'Connection to oauth.reddit.com timed out. (connect timeout=16.0)'))
+missingstuff error with request HTTPSConnectionPool(host='oauth.reddit.com', port=443): Max retries exceeded with url: /user/missingstuff/comments?sort=new&limit=1024&raw_json=1 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x0000002173D1E0F0>, 'Connection to oauth.reddit.com timed out. (connect timeout=16.0)'))
+Shadowknight251 error with request HTTPSConnectionPool(host='oauth.reddit.com', port=443): Max retries exceeded with url: /user/Shadowknight251/comments?sort=new&limit=1024&raw_json=1 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x0000002174596438>, 'Connection to oauth.reddit.com timed out. (connect timeout=16.0)'))
+tinfoil_hats error with request HTTPSConnectionPool(host='oauth.reddit.com', port=443): Max retries exceeded with url: /user/tinfoil_hats/comments?sort=new&limit=1024&raw_json=1 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x0000002174596A90>, 'Connection to oauth.reddit.com timed out. (connect timeout=16.0)'))
+kennfie error with request HTTPSConnectionPool(host='oauth.reddit.com', port=443): Max retries exceeded with url: /user/kennfie/comments?sort=new&limit=1024&raw_json=1 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000000217455ECF8>, 'Connection to oauth.reddit.com timed out. (connect timeout=16.0)'))
+Lacesso error with request HTTPSConnectionPool(host='oauth.reddit.com', port=443): Max retries exceeded with url: /user/Lacesso/comments?sort=new&limit=1024&raw_json=1 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x0000002174556DD8>, 'Connection to oauth.reddit.com timed out. (connect timeout=16.0)'))
+NationalistTendency error with request HTTPSConnectionPool(host='oauth.reddit.com', port=443): Max retries exceeded with url: /user/NationalistTendency/comments?sort=new&limit=1024&raw_json=1 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x0000002174556080>, 'Connection to oauth.reddit.com timed out. (connect timeout=16.0)'))
+yeahidkanymore error with request HTTPSConnectionPool(host='oauth.reddit.com', port=443): Max retries exceeded with url: /user/yeahidkanymore/comments?sort=new&limit=1024&raw_json=1 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x0000002173D1EF98>, 'Connection to oauth.reddit.com timed out. (connect timeout=16.0)'))
+ayeenteajay error with request HTTPSConnectionPool(host='oauth.reddit.com', port=443): Max retries exceeded with url: /user/ayeenteajay/comments?sort=new&limit=1024&raw_json=1 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x0000002174596B38>, 'Connection to oauth.reddit.com timed out. (connect timeout=16.0)'))
+Riataro error with request HTTPSConnectionPool(host='oauth.reddit.com', port=443): Max retries exceeded with url: /user/Riataro/comments?sort=new&limit=1024&raw_json=1 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x0000002174596438>, 'Connection to oauth.reddit.com timed out. (connect timeout=16.0)'))
+PurpleGalaxyBunnie error with request HTTPSConnectionPool(host='oauth.reddit.com', port=443): Max retries exceeded with url: /user/PurpleGalaxyBunnie/comments?sort=new&limit=1024&raw_json=1 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000000217455E400>, 'Connection to oauth.reddit.com timed out. (connect timeout=16.0)'))
+misssloane error with request HTTPSConnectionPool(host='oauth.reddit.com', port=443): Max retries exceeded with url: /user/misssloane/comments?sort=new&limit=1024&raw_json=1 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x0000002174556278>, 'Connection to oauth.reddit.com timed out. (connect timeout=16.0)'))
+more_2_life error with request HTTPSConnectionPool(host='oauth.reddit.com', port=443): Max retries exceeded with url: /user/more_2_life/comments?sort=new&limit=1024&raw_json=1 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x0000002174556CF8>, 'Connection to oauth.reddit.com timed out. (connect timeout=16.0)'))
+noodles0311 error with request HTTPSConnectionPool(host='oauth.reddit.com', port=443): Max retries exceeded with url: /user/noodles0311/comments?sort=new&limit=1024&raw_json=1 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x0000002173CA86D8>, 'Connection to oauth.reddit.com timed out. (connect timeout=16.0)'))
+coldtea23 error with request HTTPSConnectionPool(host='oauth.reddit.com', port=443): Max retries exceeded with url: /user/coldtea23/comments?sort=new&limit=1024&raw_json=1 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000000217455E198>, 'Connection to oauth.reddit.com timed out. (connect timeout=16.0)'))
+centralmassbitch error with request HTTPSConnectionPool(host='oauth.reddit.com', port=443): Max retries exceeded with url: /user/centralmassbitch/comments?sort=new&limit=1024&raw_json=1 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x0000002174711208>, 'Connection to oauth.reddit.com timed out. (connect timeout=16.0)'))
+StupidPasswords error with request HTTPSConnectionPool(host='oauth.reddit.com', port=443): Max retries exceeded with url: /user/StupidPasswords/comments?sort=new&limit=1024&raw_json=1 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000000217455E828>, 'Connection to oauth.reddit.com timed out. (connect timeout=16.0)'))
+er129 error with request HTTPSConnectionPool(host='oauth.reddit.com', port=443): Max retries exceeded with url: /user/er129/comments?sort=new&limit=1024&raw_json=1 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x00000021745562B0>, 'Connection to oauth.reddit.com timed out. (connect timeout=16.0)'))
+jesujoyofman error with request HTTPSConnectionPool(host='oauth.reddit.com', port=443): Max retries exceeded with url: /user/jesujoyofman/comments?sort=new&limit=1024&raw_json=1 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x0000002174556128>, 'Connection to oauth.reddit.com timed out. (connect timeout=16.0)'))
+Poroette error with request HTTPSConnectionPool(host='oauth.reddit.com', port=443): Max retries exceeded with url: /user/Poroette/comments?sort=new&limit=1024&raw_json=1 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x0000002173CA8748>, 'Connection to oauth.reddit.com timed out. (connect timeout=16.0)'))
+absol2019 error with request HTTPSConnectionPool(host='oauth.reddit.com', port=443): Max retries exceeded with url: /user/absol2019/comments?sort=new&limit=1024&raw_json=1 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000000217469BA20>, 'Connection to oauth.reddit.com timed out. (connect timeout=16.0)'))
+Ryonne error with request HTTPSConnectionPool(host='oauth.reddit.com', port=443): Max retries exceeded with url: /user/Ryonne/comments?sort=new&limit=1024&raw_json=1 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x00000021746D3DA0>, 'Connection to oauth.reddit.com timed out. (connect timeout=16.0)'))
+noimagination128431 error with request HTTPSConnectionPool(host='oauth.reddit.com', port=443): Max retries exceeded with url: /user/noimagination128431/comments?sort=new&limit=1024&raw_json=1 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000000217455E0B8>, 'Connection to oauth.reddit.com timed out. (connect timeout=16.0)'))
+lolhaibai received 404 HTTP response
+midoridrops error with request HTTPSConnectionPool(host='oauth.reddit.com', port=443): Read timed out. (read timeout=16.0)
+Jakky101 error with request HTTPSConnectionPool(host='oauth.reddit.com', port=443): Max retries exceeded with url: /user/Jakky101/comments?sort=new&limit=1024&raw_json=1 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x00000021745E6748>, 'Connection to oauth.reddit.com timed out. (connect timeout=16.0)'))
+RainbowDashcam error with request HTTPSConnectionPool(host='oauth.reddit.com', port=443): Max retries exceeded with url: /user/RainbowDashcam/comments?sort=new&limit=1024&raw_json=1 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x00000021746F67F0>, 'Connection to oauth.reddit.com timed out. (connect timeout=16.0)'))
+ihqvagplumber error with request HTTPSConnectionPool(host='oauth.reddit.com', port=443): Max retries exceeded with url: /user/ihqvagplumber/comments?sort=new&limit=1024&raw_json=1 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x00000021745E6550>, 'Connection to oauth.reddit.com timed out. (connect timeout=16.0)'))
+Hmac54 error with request HTTPSConnectionPool(host='oauth.reddit.com', port=443): Max retries exceeded with url: /user/Hmac54/comments?sort=new&limit=1024&raw_json=1 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000000217468EFD0>, 'Connection to oauth.reddit.com timed out. (connect timeout=16.0)'))
+hurricanethor error with request HTTPSConnectionPool(host='oauth.reddit.com', port=443): Max retries exceeded with url: /user/hurricanethor/comments?sort=new&limit=1024&raw_json=1 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000000217465C208>, 'Connection to oauth.reddit.com timed out. (connect timeout=16.0)'))
+PixelWarrior5253 error with request HTTPSConnectionPool(host='oauth.reddit.com', port=443): Max retries exceeded with url: /user/PixelWarrior5253/comments?sort=new&limit=1024&raw_json=1 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000000217465C2B0>, 'Connection to oauth.reddit.com timed out. (connect timeout=16.0)'))
+Vicarious77 error with request HTTPSConnectionPool(host='oauth.reddit.com', port=443): Max retries exceeded with url: /user/Vicarious77/comments?sort=new&limit=1024&raw_json=1 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000000217468E438>, 'Connection to oauth.reddit.com timed out. (connect timeout=16.0)'))
+Relmayor error with request HTTPSConnectionPool(host='oauth.reddit.com', port=443): Max retries exceeded with url: /user/Relmayor/comments?sort=new&limit=1024&raw_json=1 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x00000021745E6D30>, 'Connection to oauth.reddit.com timed out. (connect timeout=16.0)'))
+Cookie_Jar error with request HTTPSConnectionPool(host='oauth.reddit.com', port=443): Max retries exceeded with url: /user/Cookie_Jar/comments?sort=new&limit=1024&raw_json=1 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x00000021745E6DD8>, 'Connection to oauth.reddit.com timed out. (connect timeout=16.0)'))
+Cbs87 error with request HTTPSConnectionPool(host='oauth.reddit.com', port=443): Max retries exceeded with url: /user/Cbs87/comments?sort=new&limit=1024&raw_json=1 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000000217468E9B0>, 'Connection to oauth.reddit.com timed out. (connect timeout=16.0)'))
+MistyMarvel error with request HTTPSConnectionPool(host='oauth.reddit.com', port=443): Max retries exceeded with url: /user/MistyMarvel/comments?sort=new&limit=1024&raw_json=1 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000000217465C8D0>, 'Connection to oauth.reddit.com timed out. (connect timeout=16.0)'))
+da_drifter0912 error with request HTTPSConnectionPool(host='oauth.reddit.com', port=443): Max retries exceeded with url: /user/da_drifter0912/comments?sort=new&limit=1024&raw_json=1 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000000217465C8D0>, 'Connection to oauth.reddit.com timed out. (connect timeout=16.0)'))
+Kris-tee-ana error with request HTTPSConnectionPool(host='oauth.reddit.com', port=443): Max retries exceeded with url: /user/Kris-tee-ana/comments?sort=new&limit=1024&raw_json=1 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000000217468EA58>, 'Connection to oauth.reddit.com timed out. (connect timeout=16.0)'))
+MoebiusStriptease error with request HTTPSConnectionPool(host='oauth.reddit.com', port=443): Max retries exceeded with url: /user/MoebiusStriptease/comments?sort=new&limit=1024&raw_json=1 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x00000021745E61D0>, 'Connection to oauth.reddit.com timed out. (connect timeout=16.0)'))
+Motivation_Man error with request HTTPSConnectionPool(host='oauth.reddit.com', port=443): Max retries exceeded with url: /user/Motivation_Man/comments?sort=new&limit=1024&raw_json=1 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000000217468E6D8>, 'Connection to oauth.reddit.com timed out. (connect timeout=16.0)'))
+Chillin85 error with request HTTPSConnectionPool(host='oauth.reddit.com', port=443): Max retries exceeded with url: /user/Chillin85/comments?sort=new&limit=1024&raw_json=1 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x00000021746D3630>, 'Connection to oauth.reddit.com timed out. (connect timeout=16.0)'))
+cass37 error with request HTTPSConnectionPool(host='oauth.reddit.com', port=443): Max retries exceeded with url: /user/cass37/comments?sort=new&limit=1024&raw_json=1 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x00000021746F66A0>, 'Connection to oauth.reddit.com timed out. (connect timeout=16.0)'))
+A_DRAWER error with request HTTPSConnectionPool(host='oauth.reddit.com', port=443): Max retries exceeded with url: /user/A_DRAWER/comments?sort=new&limit=1024&raw_json=1 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x00000021746F6DA0>, 'Connection to oauth.reddit.com timed out. (connect timeout=16.0)'))
+typemyselfie error with request HTTPSConnectionPool(host='oauth.reddit.com', port=443): Max retries exceeded with url: /user/typemyselfie/comments?sort=new&limit=1024&raw_json=1 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x00000021746D3D68>, 'Connection to oauth.reddit.com timed out. (connect timeout=16.0)'))
+lissahearts error with request HTTPSConnectionPool(host='oauth.reddit.com', port=443): Max retries exceeded with url: /user/lissahearts/comments?sort=new&limit=1024&raw_json=1 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000000217468EA90>, 'Connection to oauth.reddit.com timed out. (connect timeout=16.0)'))
+Marybeth81 error with request HTTPSConnectionPool(host='oauth.reddit.com', port=443): Max retries exceeded with url: /user/Marybeth81/comments?sort=new&limit=1024&raw_json=1 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000000217465CAC8>, 'Connection to oauth.reddit.com timed out. (connect timeout=16.0)'))
+ulisesheureaux error with request HTTPSConnectionPool(host='oauth.reddit.com', port=443): Max retries exceeded with url: /user/ulisesheureaux/comments?sort=new&limit=1024&raw_json=1 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x00000021746D3240>, 'Connection to oauth.reddit.com timed out. (connect timeout=16.0)'))
+fantastic_comment error with request HTTPSConnectionPool(host='www.reddit.com', port=443): Read timed out. (read timeout=16.0)
+keeety error with request HTTPSConnectionPool(host='www.reddit.com', port=443): Max retries exceeded with url: /api/v1/access_token (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000000217460BA58>, 'Connection to www.reddit.com timed out. (connect timeout=16.0)'))
+ChromeGhost error with request HTTPSConnectionPool(host='www.reddit.com', port=443): Max retries exceeded with url: /api/v1/access_token (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x00000021746F6588>, 'Connection to www.reddit.com timed out. (connect timeout=16.0)'))
+Toebroodjie error with request HTTPSConnectionPool(host='www.reddit.com', port=443): Max retries exceeded with url: /api/v1/access_token (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000000217468EA90>, 'Connection to www.reddit.com timed out. (connect timeout=16.0)'))
+could-of-bot received 403 HTTP response
+SureAviator received 403 HTTP response
+kompirmandza received 403 HTTP response
+irlhomosapien received 404 HTTP response
+Faralah received 404 HTTP response
+trenescese error with request HTTPSConnectionPool(host='oauth.reddit.com', port=443): Max retries exceeded with url: /user/trenescese/comments?sort=new&limit=1024&after=t1_dnse8f8&raw_json=1 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x00000021746F6240>, 'Connection to oauth.reddit.com timed out. (connect timeout=16.0)'))
+tiredofpegging error with request HTTPSConnectionPool(host='oauth.reddit.com', port=443): Max retries exceeded with url: /user/tiredofpegging/comments?sort=new&limit=1024&raw_json=1 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000000217465C710>, 'Connection to oauth.reddit.com timed out. (connect timeout=16.0)'))
+calico_capo error with request HTTPSConnectionPool(host='oauth.reddit.com', port=443): Max retries exceeded with url: /user/calico_capo/comments?sort=new&limit=1024&raw_json=1 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000000217465CC18>, 'Connection to oauth.reddit.com timed out. (connect timeout=16.0)'))
+Negus_Makas error with request HTTPSConnectionPool(host='oauth.reddit.com', port=443): Max retries exceeded with url: /user/Negus_Makas/comments?sort=new&limit=1024&raw_json=1 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x00000021746D7F60>, 'Connection to oauth.reddit.com timed out. (connect timeout=16.0)'))
+SympatheticBalsam error with request HTTPSConnectionPool(host='oauth.reddit.com', port=443): Max retries exceeded with url: /user/SympatheticBalsam/comments?sort=new&limit=1024&raw_json=1 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x00000021746074A8>, 'Connection to oauth.reddit.com timed out. (connect timeout=16.0)'))
+purrshoe error with request HTTPSConnectionPool(host='oauth.reddit.com', port=443): Max retries exceeded with url: /user/purrshoe/comments?sort=new&limit=1024&raw_json=1 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x00000021746D7240>, 'Connection to oauth.reddit.com timed out. (connect timeout=16.0)'))
+captnpayton error with request HTTPSConnectionPool(host='oauth.reddit.com', port=443): Max retries exceeded with url: /user/captnpayton/comments?sort=new&limit=1024&raw_json=1 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x0000002174596B70>, 'Connection to oauth.reddit.com timed out. (connect timeout=16.0)'))
+FrnkCast error with request HTTPSConnectionPool(host='oauth.reddit.com', port=443): Max retries exceeded with url: /user/FrnkCast/comments?sort=new&limit=1024&raw_json=1 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x0000002174607470>, 'Connection to oauth.reddit.com timed out. (connect timeout=16.0)'))
+muthafuckin_snakes received 404 HTTP response
+that-bot received 404 HTTP response
+balderdamn received 404 HTTP response
+Jesusmuffin received 404 HTTP response
+Defenestrationiste received 404 HTTP response
+causeWhyNotMate received 404 HTTP response
+kieu_anh received 404 HTTP response
+8inchblackISTPcock87 received 404 HTTP response
+samwise_cumcheese received 404 HTTP response
+3hreewayhandshake received 404 HTTP response
+caughtmeoncee received 403 HTTP response
+Cazazkq received 404 HTTP response
+-ChaseME received 404 HTTP response
+JungleShrimp received 404 HTTP response
+Dumpythewhale error with request HTTPSConnectionPool(host='oauth.reddit.com', port=443): Max retries exceeded with url: /user/Dumpythewhale/comments?sort=new&limit=1024&after=t1_dnjpkdq&raw_json=1 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x00000021746D3240>, 'Connection to oauth.reddit.com timed out. (connect timeout=16.0)'))
+jpenney1879 received 404 HTTP response
+crackstacked received 404 HTTP response
+Rogojinen error with request HTTPSConnectionPool(host='oauth.reddit.com', port=443): Max retries exceeded with url: /user/Rogojinen/comments?sort=new&limit=1024&raw_json=1 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x00000021746EF978>, 'Connection to oauth.reddit.com timed out. (connect timeout=16.0)'))
+joyfulmastermind error with request HTTPSConnectionPool(host='oauth.reddit.com', port=443): Max retries exceeded with url: /user/joyfulmastermind/comments?sort=new&limit=1024&raw_json=1 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x00000021745F3668>, 'Connection to oauth.reddit.com timed out. (connect timeout=16.0)'))
+tkxxx7 received 404 HTTP response
+Flabilonia error with request HTTPSConnectionPool(host='oauth.reddit.com', port=443): Max retries exceeded with url: /user/Flabilonia/comments?sort=new&limit=1024&raw_json=1 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x00000021745FF5C0>, 'Connection to oauth.reddit.com timed out. (connect timeout=16.0)'))
+u1tr4me0w error with request HTTPSConnectionPool(host='oauth.reddit.com', port=443): Max retries exceeded with url: /user/u1tr4me0w/comments?sort=new&limit=1024&raw_json=1 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000000217469B160>, 'Connection to oauth.reddit.com timed out. (connect timeout=16.0)'))
+overlordofpizza error with request HTTPSConnectionPool(host='oauth.reddit.com', port=443): Max retries exceeded with url: /user/overlordofpizza/comments?sort=new&limit=1024&raw_json=1 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000000217463F080>, 'Connection to oauth.reddit.com timed out. (connect timeout=16.0)'))
+ayyyavalanche error with request HTTPSConnectionPool(host='oauth.reddit.com', port=443): Max retries exceeded with url: /user/ayyyavalanche/comments?sort=new&limit=1024&raw_json=1 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x00000021746B02E8>, 'Connection to oauth.reddit.com timed out. (connect timeout=16.0)'))
+atastillpoint error with request HTTPSConnectionPool(host='oauth.reddit.com', port=443): Max retries exceeded with url: /user/atastillpoint/comments?sort=new&limit=1024&raw_json=1 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000000217469B6D8>, 'Connection to oauth.reddit.com timed out. (connect timeout=16.0)'))
+Mortallyinsane21 error with request HTTPSConnectionPool(host='oauth.reddit.com', port=443): Max retries exceeded with url: /user/Mortallyinsane21/comments?sort=new&limit=1024&raw_json=1 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000000217463F4E0>, 'Connection to oauth.reddit.com timed out. (connect timeout=16.0)'))
+The_Chnpo received 404 HTTP response
+asthmaticgoldfish received 404 HTTP response
+baekhyun92 received 404 HTTP response
+awesomeappleblossoms received 403 HTTP response
+magicjack45 received 404 HTTP response
+GentlemanAlex received 404 HTTP response
+Frogger3140 received 404 HTTP response
+fuckyo_potatobrain received 404 HTTP response
+Evsbluebird19 received 403 HTTP response
+ickynickie received 403 HTTP response
+sadlydetached received 404 HTTP response
+robot_overloard received 403 HTTP response
+dawngarnet received 404 HTTP response
+MrEntj received 403 HTTP response
+mobile_monster_ received 404 HTTP response
+badsarcasmdetector received 404 HTTP response
+Worldsbestenfp received 404 HTTP response
+Thats_Not_You received 404 HTTP response
+jekutta received 404 HTTP response
+Q6ar999 error with request HTTPSConnectionPool(host='oauth.reddit.com', port=443): Read timed out. (read timeout=16.0)
+Brian6330 error with request HTTPSConnectionPool(host='oauth.reddit.com', port=443): Read timed out. (read timeout=16.0)
+Shakespeares_Ghost received 404 HTTP response
+SeeStolenVideos received 404 HTTP response
+noidentitycrisis received 404 HTTP response
+keyboardjock received 404 HTTP response
+groupme_recruiter received 404 HTTP response
+penolopepizza received 404 HTTP response
+YT_Reddit_Bot received 404 HTTP response
+pixels625 received 403 HTTP response
+takelessons received 404 HTTP response
+trevercj received 404 HTTP response
+mbtimbti received 404 HTTP response
+magnets99 received 404 HTTP response
+CuriositySphere received 404 HTTP response
+randpmuser received 404 HTTP response
+AxelSchmidt received 403 HTTP response
+ZapTune received 404 HTTP response
+josieakajos received 404 HTTP response
+bedoot received 404 HTTP response
+hamfree received 404 HTTP response
+69again received 403 HTTP response
+JuanCarlosOnetti received 403 HTTP response
+ThaChippa received 403 HTTP response
+dirtymind_bot received 404 HTTP response
+ceciliafly received 404 HTTP response
+COCK_MURDER received 403 HTTP response
+elviejo_k received 404 HTTP response
+floweryfurrygay received 404 HTTP response
+_IamYourBestFriend received 404 HTTP response
+Jsnsbsnshdn received 404 HTTP response
+Tatatee received 404 HTTP response
+constellatlons received 503 HTTP response
+permaculture error with request HTTPSConnectionPool(host='oauth.reddit.com', port=443): Read timed out. (read timeout=16.0)
+excelssior error with request HTTPSConnectionPool(host='oauth.reddit.com', port=443): Read timed out. (read timeout=16.0)
+metric_units received 404 HTTP response
+dumbkid12 received 404 HTTP response
+Mynameiskyle52 received 404 HTTP response
+EnergeticBanana error with request HTTPSConnectionPool(host='oauth.reddit.com', port=443): Read timed out. (read timeout=16.0)
+rathtar_roon received 404 HTTP response
+mggs received 404 HTTP response
+kittenoid error with request HTTPSConnectionPool(host='oauth.reddit.com', port=443): Read timed out. (read timeout=16.0)
+Penny_edison error with request HTTPSConnectionPool(host='oauth.reddit.com', port=443): Read timed out. (read timeout=16.0)
+diaperbaby69 received 404 HTTP response
+iwishforagini error with request HTTPSConnectionPool(host='oauth.reddit.com', port=443): Read timed out. (read timeout=16.0)
+theymadememakesex received 404 HTTP response
+102349612395612034 received 404 HTTP response
+GrammerNazi_ received 404 HTTP response
+heruskael received 503 HTTP response
+alphalady error with request HTTPSConnectionPool(host='oauth.reddit.com', port=443): Read timed out. (read timeout=16.0)
+Saltysweetcake error with request HTTPSConnectionPool(host='oauth.reddit.com', port=443): Read timed out. (read timeout=16.0)
+whodeeya error with request HTTPSConnectionPool(host='oauth.reddit.com', port=443): Read timed out. (read timeout=16.0)
+break_main error with request HTTPSConnectionPool(host='oauth.reddit.com', port=443): Read timed out. (read timeout=16.0)
+djdjgoo received 404 HTTP response
+SgtHallMonitor received 403 HTTP response
+Sir_Upvote received 404 HTTP response
+I_am_a_haiku_bot received 404 HTTP response
+frumini received 404 HTTP response
+cmore received 404 HTTP response
+joinourmbtichat received 404 HTTP response
+-I-Against-I- received 404 HTTP response
+Not_Just_You received 404 HTTP response
+Fuckyouall-twice received 404 HTTP response
+INTP_Thoughts received 404 HTTP response
+snoopypoopy6 received 404 HTTP response
+EdgarAllenNope received 404 HTTP response
+Ricenpeass received 404 HTTP response
+MarionLucas received 404 HTTP response
+icaro10100 received 404 HTTP response
+LinkFixerBotSnr received 404 HTTP response
+innocence_bot received 404 HTTP response
+SpinGiggles received 404 HTTP response
+Chillout--Records received 404 HTTP response
+F23FightingRaven received 404 HTTP response
+mashmysmash received 403 HTTP response
+Pencilstubbs received 404 HTTP response
+BahDumTshh received 403 HTTP response
+flyrtildeg received 404 HTTP response
+KatBurningIce received 404 HTTP response
+dejavubot received 404 HTTP response
+OhMyGodOtherGirls received 403 HTTP response
+personalitytestsite received 404 HTTP response
+abbygirl95 received 404 HTTP response
+TrollaBot received 404 HTTP response
+MBTIPolitics received 404 HTTP response
+ChatrinS received 404 HTTP response
+shhskakdndbnss received 403 HTTP response
+LinearChaos received 404 HTTP response
+Partoghimeos received 404 HTTP response
+strains- received 404 HTTP response
+dontmesswithjess90 received 403 HTTP response
+classhole_robot received 404 HTTP response
+michaelphils received 404 HTTP response
+Fixes_GrammerNazi_ received 404 HTTP response
+throwawaybreakfast9 received 404 HTTP response
+markmanly received 404 HTTP response
+Melanie31Kump received 404 HTTP response
+typology30 received 404 HTTP response
+advicerequest2932016 received 404 HTTP response
+Reads_Small_Text_Bot received 404 HTTP response
+myersbriggsintj received 404 HTTP response
+pplkillr received 404 HTTP response
+iyh received 404 HTTP response
+LaverneWalters001 received 404 HTTP response
+tomtomoftommington received 404 HTTP response
+FStoicism received 404 HTTP response
+kjop received 403 HTTP response
+catchinggriffins received 404 HTTP response
+gabbylee690 error with request HTTPSConnectionPool(host='oauth.reddit.com', port=443): Read timed out. (read timeout=16.0)
+Suzie157 received 404 HTTP response
+Fafy91 error with request HTTPSConnectionPool(host='oauth.reddit.com', port=443): Read timed out. (read timeout=16.0)
+Hrel received 404 HTTP response
+CanterburyChaucer received 404 HTTP response
+NotDrunkk error with request HTTPSConnectionPool(host='oauth.reddit.com', port=443): Max retries exceeded with url: /user/NotDrunkk/comments?sort=new&limit=1024&raw_json=1&after=t1_d6z8qzk (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x0000005048710A58>, 'Connection to oauth.reddit.com timed out. (connect timeout=16.0)'))
+Esoteric_Innovations error with request HTTPSConnectionPool(host='oauth.reddit.com', port=443): Max retries exceeded with url: /user/Esoteric_Innovations/comments?sort=new&limit=1024&raw_json=1 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x0000005047E5F550>, 'Connection to oauth.reddit.com timed out. (connect timeout=16.0)'))
+Firebird5637 error with request HTTPSConnectionPool(host='oauth.reddit.com', port=443): Max retries exceeded with url: /user/Firebird5637/comments?sort=new&limit=1024&raw_json=1 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x0000005047E5FD68>, 'Connection to oauth.reddit.com timed out. (connect timeout=16.0)'))
+istpinfj error with request HTTPSConnectionPool(host='oauth.reddit.com', port=443): Max retries exceeded with url: /user/istpinfj/comments?sort=new&limit=1024&raw_json=1 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x0000005048725860>, 'Connection to oauth.reddit.com timed out. (connect timeout=16.0)'))
+Dad_Jokes_Incoming error with request HTTPSConnectionPool(host='oauth.reddit.com', port=443): Max retries exceeded with url: /user/Dad_Jokes_Incoming/comments?sort=new&limit=1024&raw_json=1 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x00000050486BB358>, 'Connection to oauth.reddit.com timed out. (connect timeout=16.0)'))
+sliskenswe error with request HTTPSConnectionPool(host='oauth.reddit.com', port=443): Max retries exceeded with url: /user/sliskenswe/comments?sort=new&limit=1024&raw_json=1 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x00000050486BBCC0>, 'Connection to oauth.reddit.com timed out. (connect timeout=16.0)'))
+MayaTamika error with request HTTPSConnectionPool(host='oauth.reddit.com', port=443): Max retries exceeded with url: /user/MayaTamika/comments?sort=new&limit=1024&raw_json=1 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x0000005047E67FD0>, 'Connection to oauth.reddit.com timed out. (connect timeout=16.0)'))
+rutagedmintas error with request HTTPSConnectionPool(host='oauth.reddit.com', port=443): Max retries exceeded with url: /user/rutagedmintas/comments?sort=new&limit=1024&raw_json=1 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000000504879B470>, 'Connection to oauth.reddit.com timed out. (connect timeout=16.0)'))
+bohryb error with request HTTPSConnectionPool(host='oauth.reddit.com', port=443): Max retries exceeded with url: /user/bohryb/comments?sort=new&limit=1024&raw_json=1 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x0000005047E5F320>, 'Connection to oauth.reddit.com timed out. (connect timeout=16.0)'))
+OppaiGaKawaiiDesu error with request HTTPSConnectionPool(host='oauth.reddit.com', port=443): Max retries exceeded with url: /user/OppaiGaKawaiiDesu/comments?sort=new&limit=1024&raw_json=1 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x0000005047E675C0>, 'Connection to oauth.reddit.com timed out. (connect timeout=16.0)'))
+starethruyou error with request HTTPSConnectionPool(host='oauth.reddit.com', port=443): Max retries exceeded with url: /user/starethruyou/comments?sort=new&limit=1024&raw_json=1 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000000504874C3C8>, 'Connection to oauth.reddit.com timed out. (connect timeout=16.0)'))
+Arcangelathanos error with request HTTPSConnectionPool(host='oauth.reddit.com', port=443): Max retries exceeded with url: /user/Arcangelathanos/comments?sort=new&limit=1024&raw_json=1 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000000504874C3C8>, 'Connection to oauth.reddit.com timed out. (connect timeout=16.0)'))
+fernando_69 received 404 HTTP response
+rulesforradicals received 404 HTTP response
+markymagic received 404 HTTP response
+ThisIsABotThatDoStuf received 403 HTTP response
+Chase-Daniels received 404 HTTP response
+m7pls received 404 HTTP response
+autsdraws received 404 HTTP response
+1695 received 403 HTTP response
+AxelSchmidt30 received 403 HTTP response
+Mouon received 404 HTTP response
+Itshappening98 received 404 HTTP response
+flipflopity received 404 HTTP response
+T_wattycakes error with request HTTPSConnectionPool(host='oauth.reddit.com', port=443): Max retries exceeded with url: /user/T_wattycakes/comments?after=t1_dev0nvy&sort=new&raw_json=1&limit=1024 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x00000044220C1A90>, 'Connection to oauth.reddit.com timed out. (connect timeout=16.0)'))
+homicidalunicorns error with request HTTPSConnectionPool(host='oauth.reddit.com', port=443): Max retries exceeded with url: /user/homicidalunicorns/comments?sort=new&raw_json=1&limit=1024 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x0000004422157390>, 'Connection to oauth.reddit.com timed out. (connect timeout=16.0)'))
+thatsillywhitedress error with request HTTPSConnectionPool(host='oauth.reddit.com', port=443): Max retries exceeded with url: /user/thatsillywhitedress/comments?sort=new&raw_json=1&limit=1024 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x00000044220F40F0>, 'Connection to oauth.reddit.com timed out. (connect timeout=16.0)'))
+SBoRokenoul error with request HTTPSConnectionPool(host='oauth.reddit.com', port=443): Max retries exceeded with url: /user/SBoRokenoul/comments?sort=new&raw_json=1&limit=1024 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000000442219BBE0>, 'Connection to oauth.reddit.com timed out. (connect timeout=16.0)'))
+jimmyjamjims received 404 HTTP response
+JungMoolah received 403 HTTP response
+NtRationalist received 404 HTTP response
+ParenthesisBot received 404 HTTP response
+zz_zzz received 403 HTTP response
+waterloozer received 403 HTTP response
+AdolfHitlerJewSmoker received 403 HTTP response
+realhacker received 404 HTTP response
+causeWhyNotMorty received 404 HTTP response
+sekikllik received 403 HTTP response
+patadiaa received 404 HTTP response
+bewitchMuse received 403 HTTP response
+ComplimentingBot received 404 HTTP response
+-Leonhart received 404 HTTP response
+ENTParanoia received 403 HTTP response
+imsowavy1 received 404 HTTP response
+IgorsEpiskais received 403 HTTP response
+xyto received 404 HTTP response

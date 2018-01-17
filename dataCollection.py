@@ -2,6 +2,7 @@ import praw
 import config
 import json
 import os
+import urllib
 #import getusers
 def botLogin():
 		redditObj = praw.Reddit(username = config.username,
@@ -38,11 +39,9 @@ for author in users_to_process:
 						#data = addUserComments(author,commentsList)
 						fail = 0
 				except Exception as excpt:
-						print(excpt)
-						if excpt in ["404 HTTP response", "403 HTTP response"]:
-							print("rip user")
-							fail = 0
-						pass
+						with open("user_errors.txt","a") as f:
+								f.write(author+" "+str(excpt)+"\n")
+						fail=0
 		with open("./data/"+author,'w+') as f:
 			#print(data)
 			json.dump(data,f,indent=4)
